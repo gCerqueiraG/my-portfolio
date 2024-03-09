@@ -1,5 +1,5 @@
 # my-portfolio
-Projeto desenvolvido durante os cursos na plataforma alura, onde aprimorei diversas habilidades técnicas tais como:
+Projeto desenvolvido durante os cursos de HTML e CSS na plataforma alura, onde aprimorei diversas habilidades técnicas tais como:
 Flexbox,
 Responsividade (media query),
 Variáveis globais,
